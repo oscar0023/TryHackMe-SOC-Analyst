@@ -1,4 +1,5 @@
 <img width="1355" height="310" alt="image" src="https://github.com/user-attachments/assets/d90363cb-ac06-4f3a-bee1-7c6aed8d338f" />
+
 # Objective
 After participating in one too many incident response activities, PicoSecure has decided to conduct a threat simulation and detection engineering engagement to bolster its malware detection capabilities. You have been assigned to work with an external penetration tester in an iterative purple-team scenario. The tester will be attempting to execute malware samples on a simulated internal user workstation. At the same time, you will need to configure PicoSecure's security tools to detect and prevent the malware from executing.
 
