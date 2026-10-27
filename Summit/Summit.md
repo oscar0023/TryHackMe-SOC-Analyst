@@ -1,3 +1,14 @@
+<img width="1355" height="310" alt="image" src="https://github.com/user-attachments/assets/d90363cb-ac06-4f3a-bee1-7c6aed8d338f" />
+# Objective
+After participating in one too many incident response activities, PicoSecure has decided to conduct a threat simulation and detection engineering engagement to bolster its malware detection capabilities. You have been assigned to work with an external penetration tester in an iterative purple-team scenario. The tester will be attempting to execute malware samples on a simulated internal user workstation. At the same time, you will need to configure PicoSecure's security tools to detect and prevent the malware from executing.
+
+Following the Pyramid of Pain's ascending priority of indicators, your objective is to increase the simulated adversaries' cost of operations and chase them away for good. Each level of the pyramid allows you to detect and prevent various indicators of attack.
+
+# Room Prerequisites
+Completing the preceding rooms in the Cyber Defence Frameworks module will be beneficial before venturing into this challenge. Specifically, the following:
+
+The Pyramid of Pain
+MITRE
 
 <img width="1352" height="629" alt="image" src="https://github.com/user-attachments/assets/98a0e511-2a4e-41b7-8598-46169a22c580" />
 <img width="1352" height="633" alt="image" src="https://github.com/user-attachments/assets/c0428e5a-9b5f-4572-be5d-af4e9cc89196" />
