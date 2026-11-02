@@ -1,3 +1,5 @@
+<img width="1355" height="596" alt="image" src="https://github.com/user-attachments/assets/272d9865-926c-4761-8463-8e3456057f96" />
+<img width="1358" height="396" alt="image" src="https://github.com/user-attachments/assets/98a43000-dda9-4b31-9f26-f8e233875e05" />
 
 <img width="1350" height="634" alt="image" src="https://github.com/user-attachments/assets/2bf719e4-7198-4b4b-a008-2783d9432157" />
 <img width="1350" height="632" alt="image" src="https://github.com/user-attachments/assets/6fa307dc-3f3e-4788-9bb2-135192e88ed4" />
@@ -26,3 +28,5 @@ In this scenario, you are a level 1 SOC analyst. As the first line of defense, y
 <img width="1365" height="633" alt="image" src="https://github.com/user-attachments/assets/9a346a38-3bd7-46df-84f9-84238d289a0c" />
 <img width="1365" height="635" alt="image" src="https://github.com/user-attachments/assets/7f8db3e3-c5dc-47ef-aedf-b8f31d6a5ff5" />
 <img width="1365" height="632" alt="image" src="https://github.com/user-attachments/assets/9cb36de2-8092-4b62-a8d2-bbf6e162deed" />
+<img width="1325" height="438" alt="image" src="https://github.com/user-attachments/assets/35476ff0-8678-4841-a1c9-c7f89df93b5f" />
+<img width="1331" height="247" alt="image" src="https://github.com/user-attachments/assets/9982572b-cc03-4fd5-b6d3-3b1e2ac8b5d1" />
