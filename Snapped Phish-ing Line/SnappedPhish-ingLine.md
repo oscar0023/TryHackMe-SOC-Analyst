@@ -16,5 +16,4 @@ As a member of the IT department at SwiftSpend Financial, you are responsible fo
 <img width="724" height="158" alt="image" src="https://github.com/user-attachments/assets/89ed4191-08bf-45b9-bd59-6bc3f5e277ac" />
 <img width="1365" height="207" alt="image" src="https://github.com/user-attachments/assets/5e6d1b1d-bc5a-47be-926a-00c07053c83c" />
 <img width="521" height="63" alt="image" src="https://github.com/user-attachments/assets/2d733565-56c6-41db-921f-e4426f415c54" />
-<img width="1358" height="308" alt="image" src="https://github.com/user-attachments/assets/06cad0c4-ca86-40c1-b016-abc4c0c6fdf7" />
 
